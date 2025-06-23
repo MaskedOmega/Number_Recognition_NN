@@ -9,9 +9,11 @@ Whole training intake which is capable to take a list of multi training data at 
 
 
 Changeable Params:
+
 ![Alt text](Params.png)  
 
 
 
 Trained to a 99.86% accuracy estimate:  
+
 ![Alt text](Training.png)  
